@@ -1,2 +1,2 @@
-# first6shops.js
+# first6shops2.js
 works
